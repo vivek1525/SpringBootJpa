@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: vivek
+Build-Jdk: 11.0.7
+Implementation-Title: bootjpa
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.shris
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/bootjpa
+Created-By: Maven Integration for Eclipse
+
